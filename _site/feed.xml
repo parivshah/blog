@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pariv Shah</title>
+    <description></description>
+    <link>http://parivshah.github.io/</link>
+    <atom:link href="http://parivshah.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 16 Sep 2018 01:00:57 +0530</pubDate>
+    <lastBuildDate>Sun, 16 Sep 2018 01:00:57 +0530</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Welcome blog</title>
+        <description>&lt;h2 id=&quot;welcome-to-parivs-blog&quot;&gt;Welcome to Pariv’s blog&lt;/h2&gt;
+
+&lt;p&gt;I’m excited to launch my blog as tech geek professional. I would be sharing my technical knowledge which I have gained during my career.&lt;/p&gt;
+
+&lt;p&gt;I would be happy if you can provide your valuable suggestions or comments on my blog or you would like to have more details on specific topic. Your inputs matters to me a lot so I can improve myself and return back to the community.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Sep 2018 00:00:00 +0530</pubDate>
+        <link>http://parivshah.github.io/welcome/2018/09/15/welcome-to-pariv-blog.html</link>
+        <guid isPermaLink="true">http://parivshah.github.io/welcome/2018/09/15/welcome-to-pariv-blog.html</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>Welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>Setup code coverage and unit tests using Azure DevOps Services (VSTS)</title>
+        <description>&lt;h2 id=&quot;hands-on-unit-test-and-code-coverage-using-azure-devops-servies-vsts&quot;&gt;Hands on unit test and code coverage using Azure DevOps Servies (VSTS)&lt;/h2&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Sep 2018 00:00:00 +0530</pubDate>
+        <link>http://parivshah.github.io/development/2018/09/15/code-coverage-unit-tests.html</link>
+        <guid isPermaLink="true">http://parivshah.github.io/development/2018/09/15/code-coverage-unit-tests.html</guid>
+        
+        <category>azuredevops,</category>
+        
+        <category>codecoverage,</category>
+        
+        <category>unittests</category>
+        
+        <category>,vsts</category>
+        
+        
+        <category>Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
