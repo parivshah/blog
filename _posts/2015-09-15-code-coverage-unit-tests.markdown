@@ -5,7 +5,7 @@ date:   2018-09-15
 author: "Pariv Shah"
 categories: Development
 tags:	 azuredevops, codecoverage, unittests ,vsts
-cover:  "/assets/header_image_blur.jpg"
+cover:  "../assets/header_image_blur.jpg"
 ---
 
 ## Hands on unit test and code coverage using Azure DevOps Servies (VSTS)
