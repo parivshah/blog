@@ -5,7 +5,7 @@ date:   2018-09-15
 author: "Pariv Shah"
 categories: Welcome
 tags:	 welcome
-cover:  "../assets/header_image_blur.jpg"
+cover:  "/../assets/header_image_blur.jpg"
 ---
 
 ## Welcome to Pariv's blog
