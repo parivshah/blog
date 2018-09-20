@@ -40,7 +40,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: pariv_shah
+disqus_shortname: "parivshah"
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
